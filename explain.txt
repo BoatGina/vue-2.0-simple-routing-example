@@ -1,1 +1,2 @@
 Just do a test about git.
+The second line test.
